@@ -37,9 +37,24 @@ You can view the contract on the Stellar Explorer:
 
 https://stellar.expert/explorer/testnet/contract/CB7MCRTWKYBKFW6S763YCBMJHZNGPYZCIBQ3C2OJBKWIMSKBCRU5RJMW
 
-## Smart Contract Integration
 
-The frontend is connected with the Stellar Soroban smart contract.
+## 🔗 Smart Contract Integration
+
+The frontend is fully integrated with the Stellar Soroban smart contract.
+
+- Contract interaction logic is implemented in:
+  `frontend/src/app/contract.ts`
+
+- Key functions:
+  - `getVotes()` → Fetches vote count from blockchain
+  - `voteOnChain()` → Sends vote transaction to smart contract
+
+- Uses:
+  - Stellar Soroban SDK
+  - Freighter Wallet for transaction signing
+
+This ensures all votes are recorded on-chain in a decentralized manner.
+
 
 ### Key Integration Files
 
