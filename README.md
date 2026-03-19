@@ -169,6 +169,28 @@ Possible improvements for this project:
 
 ---
 
+## 🚀 Deployment
+
+### 🌐 Live Application
+🔗 https://frontend-mauve-three-40.vercel.app  
+
+### 📦 GitHub Repository
+🔗 https://github.com/Chaitanya6006/New-voting-Dapp  
+
+---
+
+## ✅ Deployment Verification
+
+- ✔️ Production URL generated successfully  
+- ✔️ Deployment completed via Vercel CLI  
+- ✔️ Live site accessible  
+
+**Production URL:**  
+https://frontend-htzm75h0t-chaitanya6006s-projects.vercel.app  
+
+**Alias URL:**  
+https://frontend-mauve-three-40.vercel.app  
+
 ## Author
 
 Chaitanya
